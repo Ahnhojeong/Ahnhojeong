@@ -13,7 +13,7 @@
 <code><img alt="Styled-Components" src="https://img.shields.io/badge/Styled Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white"></code>
 <code><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 <code><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></code>
-<code><img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"></code>
+<code><img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"></code>
 <code><img alt="React Query" src="https://img.shields.io/badge/Reqct Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"></code>
 <code><img alt="Radix UI" src="https://img.shields.io/badge/Radix UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white"></code>
 <code><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
